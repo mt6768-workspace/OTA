@@ -61,10 +61,10 @@ data = {
             "name": maintainer_name
         }
     ],
-    "donate_url": null,
+    "donate_url": "null",
     "website_url": "https://pixelos.net/",
     "news_url": "https://blog.pixelos.net/",
-    "forum_url": null
+    "forum_url": "null"
 }
 
 json_data = json.dumps(data, indent=4)

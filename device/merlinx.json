@@ -1,0 +1,22 @@
+{
+    "error": false,
+    "version": "fourteen",
+    "filename": "PixelOS_merlinx-14.0-20240122-2217.zip",
+    "datetime": 1705961519,
+    "size": 1863120206,
+    "url": "https://sourceforge.net/projects/jaison-releases/files/fourteen/merlinx/PixelOS_merlinx-14.0-20240122-2217.zip",
+    "github_releases_url": "",
+    "filehash": "653043dac8bde1cbe46dabcab442391d",
+    "id": "e4d4954d45f9010475b9d7bbd0d0cd9a7c33a7cf9c7585dff93e3133bcd5731c",
+    "maintainers": [
+        {
+            "main_maintainer": true,
+            "github_username": "jaisondp",
+            "name": "Jaison Palacio"
+        }
+    ],
+    "donate_url": "null",
+    "website_url": "https://pixelos.net/",
+    "news_url": "https://blog.pixelos.net/",
+    "forum_url": "null"
+}
